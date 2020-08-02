@@ -25,6 +25,7 @@ unacceptable behavior to hello@swiftwasm.org.
 * [swift-webpack-plugin](https://github.com/swiftwasm/swift-webpack-plugin) - [webpack.js](https://webpack.js.org/) plugin for SwiftWasm.
 * [swiftwebui-scripts](https://github.com/carson-katri/swiftwebui-scripts) - Scripts to make working with SwiftWebUI and SwiftWasm easier.
 * [webidl2swift](https://github.com/Apodini/webidl2swift) - Generate Swift bridging code from Web IDL files.
+* [Chrome Timeline Demangler](https://observablehq.com/d/0f532c6afb81f2d8) - Modify Chrome Timeline profiles to show demangled Swift symbols, which makes it easier to analyze how your code is performing.
 
 ## Example code
 
