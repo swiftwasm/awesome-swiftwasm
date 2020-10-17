@@ -33,3 +33,4 @@ unacceptable behavior to hello@swiftwasm.org.
 * [swift-web-github-example](https://github.com/swiftwasm/swift-web-github-example) - Demo project built with SwiftWasm that utilizes the GitHub search API.
 * [swift-webpack-template](https://github.com/swiftwasm/swift-webpack-template) - Kickstart your Swift, WebAssembly and webpack.js project.
 * [SwiftWebUI-WASM-CFs](https://github.com/1amageek/SwiftWebUI-WASM-CFs) - An example of a SwiftWebUI project deployed to Firebase Cloud Functions.
+* [Swift + Web Assembly](https://github.com/hassan-shahbazi/swiftwasm-go)- Use Swift + Web Assembly in a Go application. 
