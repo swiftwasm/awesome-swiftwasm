@@ -27,10 +27,11 @@ unacceptable behavior to hello@swiftwasm.org.
 * [webidl2swift](https://github.com/Apodini/webidl2swift) - Generate Swift bridging code from Web IDL files.
 * [Chrome Timeline Demangler](https://observablehq.com/d/0f532c6afb81f2d8) - Modify Chrome Timeline profiles to show demangled Swift symbols, which makes it easier to analyze how your code is performing. A [Firefox version](https://observablehq.com/d/1ab06632b2f63dc3) is also available.
 
-## Example code
+## Projects built with SwiftWasm
 
 * [LifeGame with SwiftWasm](https://github.com/kateinoigakukun/life-game-with-swiftwasm) - The Conway's Game of Life built with SwiftWasm.
 * [swift-web-github-example](https://github.com/swiftwasm/swift-web-github-example) - Demo project built with SwiftWasm that utilizes the GitHub search API.
 * [swift-webpack-template](https://github.com/swiftwasm/swift-webpack-template) - Kickstart your Swift, WebAssembly and webpack.js project.
 * [SwiftWebUI-WASM-CFs](https://github.com/1amageek/SwiftWebUI-WASM-CFs) - An example of a SwiftWebUI project deployed to Firebase Cloud Functions.
-* [Swift + WebAssembly](https://github.com/hassan-shahbazi/swiftwasm-go)- Use Swift + WebAssembly in a Go application. 
+* [Swift + WebAssembly](https://github.com/hassan-shahbazi/swiftwasm-go) - Use Swift + WebAssembly in a Go application. 
+* [Swift, Wasm, and Algorithms](https://github.com/johngarrett/swal-wasm) - Interactive documentation for [the Swift Algorithms project](https://github.com/apple/swift-algorithms).
