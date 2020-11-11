@@ -26,6 +26,7 @@ unacceptable behavior to hello@swiftwasm.org.
 * [swiftwebui-scripts](https://github.com/carson-katri/swiftwebui-scripts) - Scripts to make working with SwiftWebUI and SwiftWasm easier.
 * [webidl2swift](https://github.com/Apodini/webidl2swift) - Generate Swift bridging code from Web IDL files.
 * [Chrome Timeline Demangler](https://observablehq.com/d/0f532c6afb81f2d8) - Modify Chrome Timeline profiles to show demangled Swift symbols, which makes it easier to analyze how your code is performing. A [Firefox version](https://observablehq.com/d/1ab06632b2f63dc3) is also available.
+* [WasmTransformer](https://github.com/swiftwasm/WasmTransformer) - A Swift package for reading, writing, and transformation of Wasm binaries.
 
 ## Projects built with SwiftWasm
 
