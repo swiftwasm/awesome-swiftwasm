@@ -1,6 +1,6 @@
 # awesome-swiftwasm
 
-A community-driven curated list of SwiftWasm projects and content. Feel free to [edit this file](https://github.com/swiftwasm/awesome-swiftwasm/edit/main/README.md), add your project, and create a pull request.
+A community-driven curated list of projects and content related to WebAssembly support in the Swift ecosystem. Feel free to [edit this file](https://github.com/swiftwasm/awesome-swiftwasm/edit/main/README.md), add your project, and create a pull request.
 
 ## Contributing
 
@@ -27,6 +27,7 @@ unacceptable behavior to hello@swiftwasm.org.
 * [webidl2swift](https://github.com/Apodini/webidl2swift) - Generate Swift bridging code from Web IDL files.
 * [Chrome Timeline Demangler](https://observablehq.com/d/0f532c6afb81f2d8) - Modify Chrome Timeline profiles to show demangled Swift symbols, which makes it easier to analyze how your code is performing. A [Firefox version](https://observablehq.com/d/1ab06632b2f63dc3) is also available.
 * [WasmTransformer](https://github.com/swiftwasm/WasmTransformer) - A Swift package for reading, writing, and transformation of Wasm binaries.
+* [WAKit](https://github.com/akkyie/WAKit) - A WebAssembly Runtime written in Swift. 
 
 ## Projects built with SwiftWasm
 
