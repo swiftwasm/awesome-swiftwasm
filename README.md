@@ -13,6 +13,10 @@ unacceptable behavior to hello@swiftwasm.org.
 
 * [The SwiftWasm Book](https://swiftwasm.github.io/swiftwasm-book) - The primary collaborative documentation project for SwiftWasm.
 
+## Tutorials
+
+* [WebAssembly example with React and SwiftWasm](https://expressflow.com/blog/posts/webassembly-example-with-react-and-swiftwasm) - A quick overview (with [example code](https://github.com/expressflow/webassembly-example-react) provided) of how SwiftWasm code can be integrated in a React app.
+
 ## Libraries and frameworks
 
 * [JavaScriptKit](https://github.com/kateinoigakukun/JavaScriptKit/) - Swift framework to interact with JavaScript through WebAssembly.
