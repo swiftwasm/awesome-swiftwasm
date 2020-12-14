@@ -41,3 +41,4 @@ unacceptable behavior to hello@swiftwasm.org.
 * [SwiftWebUI-WASM-CFs](https://github.com/1amageek/SwiftWebUI-WASM-CFs) - An example of a SwiftWebUI project deployed to Firebase Cloud Functions.
 * [Swift + WebAssembly](https://github.com/hassan-shahbazi/swiftwasm-go) - Use Swift + WebAssembly in a Go application. 
 * [Swift, Wasm, and Algorithms](https://github.com/johngarrett/swal-wasm) - Interactive documentation for [the Swift Algorithms project](https://github.com/apple/swift-algorithms).
+* [tic-tac-toe](https://github.com/johngarrett/tic-tac-toe) - [Tic-tac-toe game](https://garrepi.dev/tic-tac-toe/) built with SwiftWasm.
