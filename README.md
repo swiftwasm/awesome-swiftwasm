@@ -32,6 +32,7 @@ unacceptable behavior to hello@swiftwasm.org.
 * [Chrome Timeline Demangler](https://observablehq.com/d/0f532c6afb81f2d8) - Modify Chrome Timeline profiles to show demangled Swift symbols, which makes it easier to analyze how your code is performing. A [Firefox version](https://observablehq.com/d/1ab06632b2f63dc3) is also available.
 * [WasmTransformer](https://github.com/swiftwasm/WasmTransformer) - A Swift package for reading, writing, and transformation of Wasm binaries.
 * [WAKit](https://github.com/akkyie/WAKit) - A WebAssembly Runtime written in Swift. 
+* [wamr-swift](https://github.com/swiftwasm/wamr-swift/) - Swift bindings for [WebAssembly Micro Runtime](https://github.com/bytecodealliance/wasm-micro-runtime).
 
 ## Projects built with SwiftWasm
 
