@@ -33,6 +33,7 @@ unacceptable behavior to hello@swiftwasm.org.
 * [WasmTransformer](https://github.com/swiftwasm/WasmTransformer) - A Swift package for reading, writing, and transformation of Wasm binaries.
 * [WAKit](https://github.com/akkyie/WAKit) - A WebAssembly Runtime written in Swift. 
 * [wamr-swift](https://github.com/swiftwasm/wamr-swift/) - Swift bindings for [WebAssembly Micro Runtime](https://github.com/bytecodealliance/wasm-micro-runtime).
+* [SwiftyWasmer](https://github.com/AlwaysRightInstitute/SwiftyWasmer) - A Swift API for the Wasmer WebAssembly Runtime.
 
 ## Projects built with SwiftWasm
 
