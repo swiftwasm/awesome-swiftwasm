@@ -46,4 +46,4 @@ unacceptable behavior to hello@swiftwasm.org.
 * [tic-tac-toe](https://github.com/johngarrett/tic-tac-toe) - [Tic-tac-toe game](https://garrepi.dev/tic-tac-toe/) built with SwiftWasm.
 * [memes](https://github.com/nerdsupremacist/memes) - An online Multi-Player Meme Party Game that uses Vapor for backend, and SwiftWasm/Tokamak for frontend.
 * [Fat Sandwich Games website](https://github.com/fatsandwichgames/wasm-website) - A website built with SwiftWasm and Tokamak deployed with GitHub Pages.
-* [Ogol](https://github.com/fcanas/ogol) - A compiler and virtual machine for [Ogol](https://fabiancanas.com/wogol/). Ogol is currently a variant of the Logo computer language, with the browser version built with SwiftWasm.
+* [Ogol](https://github.com/fcanas/ogol) - A compiler and virtual machine for [Ogol](https://fabiancanas.com/wogol/). Ogol is currently a variant of the Logo computer language, and its browser version is built with SwiftWasm.
