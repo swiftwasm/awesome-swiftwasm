@@ -35,7 +35,7 @@ unacceptable behavior to hello@swiftwasm.org.
 * [wamr-swift](https://github.com/swiftwasm/wamr-swift/) - Swift bindings for [WebAssembly Micro Runtime](https://github.com/bytecodealliance/wasm-micro-runtime).
 * [SwiftyWasmer](https://github.com/AlwaysRightInstitute/SwiftyWasmer) - A Swift API for the Wasmer WebAssembly Runtime.
 
-## Projects built with SwiftWasm
+## Open-source projects built with SwiftWasm
 
 * [LifeGame with SwiftWasm](https://github.com/kateinoigakukun/life-game-with-swiftwasm) - The Conway's Game of Life built with SwiftWasm.
 * [swift-web-github-example](https://github.com/swiftwasm/swift-web-github-example) - Demo project built with SwiftWasm that utilizes the GitHub search API.
@@ -47,3 +47,7 @@ unacceptable behavior to hello@swiftwasm.org.
 * [memes](https://github.com/nerdsupremacist/memes) - An online Multi-Player Meme Party Game that uses Vapor for backend, and SwiftWasm/Tokamak for frontend.
 * [Fat Sandwich Games website](https://github.com/fatsandwichgames/wasm-website) - A website built with SwiftWasm and Tokamak deployed with GitHub Pages.
 * [Ogol](https://github.com/fcanas/ogol) - A compiler and virtual machine for [Ogol](https://fabiancanas.com/wogol/). Ogol is currently a variant of the Logo computer language, and its browser version is built with SwiftWasm.
+
+## Closed-source projects built with SwiftWasm
+
+* [Luminal](https://getluminal.com) - A single workspace for your entire engineering team, right in your browser.
