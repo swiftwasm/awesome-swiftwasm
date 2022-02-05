@@ -23,6 +23,7 @@ unacceptable behavior to hello@swiftwasm.org.
 * [SwiftWebUI](https://github.com/carson-katri/SwiftWebUI) - SwiftUI with support for WebAssembly.
 * [Tokamak](https://github.com/swiftwasm/Tokamak) - SwiftUI-compatible framework for building browser apps with WebAssembly.
 * [BluetoothWeb](https://github.com/PureSwift/BluetoothWeb) - Swift framework to interact with [Web Bluetooth API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API) through WebAssembly.
+* [Compute](https://github.com/AndrewBarba/swift-compute-runtime) - Swift runtime for building server side applications on [Fastly Compute@Edge](https://www.fastly.com/products/edge-compute/serverless).
 
 ## Developer tools
 
