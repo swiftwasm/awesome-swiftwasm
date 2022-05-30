@@ -43,7 +43,7 @@ unacceptable behavior to hello@swiftwasm.org.
 * [LifeGame with SwiftWasm](https://github.com/kateinoigakukun/life-game-with-swiftwasm) - The Conway's Game of Life built with SwiftWasm.
 * [swift-web-github-example](https://github.com/swiftwasm/swift-web-github-example) - Demo project built with SwiftWasm that utilizes the GitHub search API.
 * [swift-webpack-template](https://github.com/swiftwasm/swift-webpack-template) - Kickstart your Swift, WebAssembly and webpack.js project.
-* [SwiftWebUI-WASM-CFs](https://github.com/1amageek/SwiftWebUI-WASM-CFs) - An example of a SwiftWebUI project deployed to Firebase Cloud Functions.
+* [SwiftWebUI-Wasm-CFs](https://github.com/1amageek/SwiftWebUI-Wasm-CFs) - An example of a SwiftWebUI project deployed to Firebase Cloud Functions.
 * [Swift + WebAssembly](https://github.com/hassan-shahbazi/swiftwasm-go) - Use Swift + WebAssembly in a Go application. 
 * [Swift, Wasm, and Algorithms](https://github.com/johngarrett/swal-wasm) - Interactive documentation for [the Swift Algorithms project](https://github.com/apple/swift-algorithms).
 * [tic-tac-toe](https://github.com/johngarrett/tic-tac-toe) - [Tic-tac-toe game](https://garrepi.dev/tic-tac-toe/) built with SwiftWasm.
