@@ -16,6 +16,7 @@ unacceptable behavior to hello@swiftwasm.org.
 ## Tutorials
 
 * [WebAssembly example with React and SwiftWasm](https://expressflow.com/blog/posts/webassembly-example-with-react-and-swiftwasm) - A quick overview (with [example code](https://github.com/expressflow/webassembly-example-react) provided) of how SwiftWasm code can be integrated in a React app.
+* [Write WebAssembly in Swift and use it in Swift App](https://blog.kevinzhow.com/2022/06/11/swift-webassembly/) - A tutorial about how to use SwiftWasm to write wasm app and intergate into Swift App.
 
 ## Libraries and frameworks
 
