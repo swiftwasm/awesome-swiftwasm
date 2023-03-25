@@ -53,4 +53,4 @@ unacceptable behavior to hello@swiftwasm.org.
 
 ## Closed-source projects built with SwiftWasm
 
-* [Luminal](https://getluminal.com) - A single workspace for your entire engineering team, right in your browser.
+* [Luminal](https://getluminal.com) - Clean, transform and analyze spreadsheets at lightspeed with AI.
