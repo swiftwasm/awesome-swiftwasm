@@ -54,3 +54,13 @@ unacceptable behavior to hello@swiftwasm.org.
 ## Closed-source projects built with SwiftWasm
 
 * [Luminal](https://getluminal.com) - Clean, transform and analyze spreadsheets at lightspeed with AI.
+
+
+## Sponsoring
+
+[Become a gold or platinum sponsor](https://github.com/sponsors/swiftwasm/) and contact maintainers to add your logo on our README on Github with a link to your site.
+
+
+<a href="https://www.emergetools.com/">
+  <img src="https://github.com/swiftwasm/swift/assets/11702759/6cb83079-f3e0-4749-b40d-a684fae160ad" width="30%">
+</a>
