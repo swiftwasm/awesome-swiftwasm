@@ -15,7 +15,7 @@ unacceptable behavior to hello@swiftwasm.org.
 
 ## Tutorials
 
-* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+* [TutorialSearch](https://tutorialsearch.io/browse/writing-content) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [WebAssembly example with React and SwiftWasm](https://expressflow.com/blog/posts/webassembly-example-with-react-and-swiftwasm) - A quick overview (with [example code](https://github.com/expressflow/webassembly-example-react) provided) of how SwiftWasm code can be integrated in a React app.
 * [Write WebAssembly in Swift and use it in Swift App](https://blog.kevinzhow.com/2022/06/11/swift-webassembly/) - A tutorial about how to use SwiftWasm to write wasm app and intergate into Swift App.
 
