@@ -50,6 +50,7 @@ unacceptable behavior to hello@swiftwasm.org.
 * [tic-tac-toe](https://github.com/johngarrett/tic-tac-toe) - [Tic-tac-toe game](https://garrepi.dev/tic-tac-toe/) built with SwiftWasm.
 * [memes](https://github.com/nerdsupremacist/memes) - An online Multi-Player Meme Party Game that uses Vapor for backend, and SwiftWasm/Tokamak for frontend.
 * [Ogol](https://github.com/fcanas/ogol) - A compiler and virtual machine for [Ogol](https://fabiancanas.com/wogol/). Ogol is currently a variant of the Logo computer language, and its browser version is built with SwiftWasm.
+* [Siday](https://ptsochantaris.github.io/siday/) - A retro-music player supporting almost all retro and tracker formats at very high fidelity. Processing, chip emulation, visualisers and logic is all SwiftWasm, using ElementaryUI as a front-end. Project repo is [here](https://github.com/ptsochantaris/siday).
 
 ## Closed-source projects built with SwiftWasm
 
